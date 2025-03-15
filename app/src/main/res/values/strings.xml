@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RideSync</string>
+    <string name="default_web_client_id">657817292399-6bl7abkj4q3in3duiodkkanosaflob5k.apps.googleusercontent.com</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="ride_categories">
+        <item>Economy</item>
+        <item>Standard</item>
+        <item>Luxury</item>
+        <item>Bike</item>
+        <item>Auto</item>
+    </string-array>
+</resources>

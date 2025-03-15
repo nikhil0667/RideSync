@@ -1,0 +1,14 @@
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="primary">#0077B6</color> <!-- Main primary color -->
+    <color name="primaryVariant">#00568E</color> <!-- Darker shade of primary color -->
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="secondary">#00B2FF</color>
+    <color name="secondaryVariant">#0086C6</color>
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#333333</color>
+    <color name="onBackground">#212121</color>
+    <color name="splash_background">#06131A</color>
+    <color name="black">#000000</color> <!-- Dark blue -->
+</resources>

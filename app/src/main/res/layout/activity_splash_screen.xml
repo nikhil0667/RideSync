@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreens"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/splash_background">
+    <ImageView
+        android:layout_width="400dp"
+        android:contentDescription="RideSync Logo"
+        android:scaleType="fitCenter"
+        android:layout_height="400dp"
+        android:src="@drawable/logo1" />
+    <TextView
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:textStyle="italic"
+        />
+</LinearLayout>
